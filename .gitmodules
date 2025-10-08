@@ -1,0 +1,3 @@
+[submodule "inf4-abstraction"]
+	path = inf4-abstraction
+	url = git@github.com:AVBO-LAB-INF/inf4-abstraction.git
