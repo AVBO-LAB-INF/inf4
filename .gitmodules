@@ -1,3 +1,7 @@
 [submodule "inf4-abstraction"]
 	path = inf4-abstraction
 	url = ../inf4-abstraction.git
+
+[submodule "inf4-labmensa"]
+        path = inf4-labmensa
+        url = ../inf4-labmensa.git
