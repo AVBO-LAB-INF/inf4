@@ -3,5 +3,5 @@
 	url = ../inf4-abstraction.git
 
 [submodule "inf4-labmensa"]
-        path = inf4-labmensa
-        url = ../inf4-labmensa.git
+	path = inf4-labmensa
+	url = git@github.com:AVBO-LAB-INF/inf4-labmensa.git
